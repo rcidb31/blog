@@ -1,7 +1,7 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Dec 22 2023'
+title: 'Tecnicas de estudios'
+description: 'Un pequeño repaso en algunas tecnicas'
+pubDate: 'Proximamente'
 tags: ['astro', 'blogging', 'learning']
 ---
 

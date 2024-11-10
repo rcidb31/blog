@@ -1,7 +1,7 @@
 ---
-title: "Second post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jan 01 2024"
+title: "Javascript en el 2024"
+description: "Derrocado por Python despues de muchos Años "
+pubDate: "Proximamente"
 tags: ["astro", "blogging", "learning"]
 ---
 

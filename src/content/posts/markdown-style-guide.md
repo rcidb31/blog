@@ -1,7 +1,7 @@
 ---
-title: "Markdown Style Guide"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
-pubDate: "Jan 07 2024"
+title: "Bootcamps"
+description: "Mi experiencia personal en el 2023 en un bootcampt full stack javascript"
+pubDate: "Proximamente"
 tags: ["guide", "style", "markdown"]
 ---
 

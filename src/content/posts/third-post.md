@@ -1,7 +1,7 @@
 ---
-title: "Third post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jan 04 2024"
+title: "Estudios Programacion"
+description: "Experiencia Primer Año Universidad Mayor"
+pubDate: "Proximamente"
 tags: ["astro", "blogging", "learning"]
 ---
 
