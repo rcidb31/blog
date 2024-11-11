@@ -1,7 +1,7 @@
 ---
 title: "Javascript en el 2024"
 description: "Derrocado por Python despues de muchos Años "
-pubDate: "Proximamente"
+pubDate: "Dic 2024"
 tags: ["astro", "blogging", "learning"]
 ---
 

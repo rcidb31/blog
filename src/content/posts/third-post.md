@@ -1,7 +1,7 @@
 ---
 title: "Estudios Programacion"
 description: "Experiencia Primer Año Universidad Mayor"
-pubDate: "Proximamente"
+pubDate: "Nov-2024"
 tags: ["astro", "blogging", "learning"]
 ---
 

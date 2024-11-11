@@ -1,7 +1,7 @@
 ---
 title: "Bootcamps"
 description: "Mi experiencia personal en el 2023 en un bootcampt full stack javascript"
-pubDate: "Proximamente"
+pubDate: "Dic-2024"
 tags: ["guide", "style", "markdown"]
 ---
 

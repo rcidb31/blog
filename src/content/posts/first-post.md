@@ -1,7 +1,7 @@
 ---
 title: 'Tecnicas de estudios'
 description: 'Un pequeño repaso en algunas tecnicas'
-pubDate: 'Proximamente'
+pubDate: 'Nov-2024'
 tags: ['astro', 'blogging', 'learning']
 ---
 
